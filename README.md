@@ -13,5 +13,3 @@ Este projeto é uma versão simplificada do jogo da velha (tic-tac-toe), em que 
 
 - [C] Compiler com suporte ao padrão C99.
 - Sistema operacional compatível com a execução de programas C.
-
-Divirta-se jogando!
